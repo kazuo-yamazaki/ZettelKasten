@@ -1,4 +1,4 @@
-Operations Managing Categories の一つであり、Detailed SchedulingはOperation ScheduleをWork Scheduleに変換することが主たる目的である。
+Operations Managing Categories の一つであり、Detailed Schedulingは[[202108010720 ISA-95 Operation Schedule|Operation Schedule]]をWork Scheduleに変換することが主たる目的である。
 
 Detailed Scheduling アクティビティはリソース（人財、材料、機器）が利用可能か、資質が問題ないか判断して、Operation ScheduleをWork Scheduleすなわち、Work RequestとJob Orderに展開して他のアクティビティに提供する。
 
